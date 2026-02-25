@@ -17,6 +17,9 @@ A simple and interactive JavaScript project that changes the background color of
 - Click on color buttons to change background
 - Click "Random" to generate a random color
 
+  
+## 🌐 Live Demo
+https://manisha625.github.io/colorflipper/
 ---
 
 Made with ❤️ by Manisha
