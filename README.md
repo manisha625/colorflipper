@@ -17,12 +17,6 @@ A simple and interactive JavaScript project that changes the background color of
 - Click on color buttons to change background
 - Click "Random" to generate a random color
 
-## 📸 Preview
-(Add screenshot here later)
-
-## 🔗 Live Demo
-(You can add GitHub Pages link later)
-
 ---
 
 Made with ❤️ by Manisha
